@@ -77,7 +77,7 @@ const personas: Persona[] = [
     glowColor: "shadow-indigo-400/50",
   },
   {
-    name: "Sadie",
+    name: "Thoth",
     title: "The Simplifier",
     role: "Translator",
     description: "Makes the complex accessible. Bridges jargon to clarity. If she can't explain it simply, it's not understood yet.",
@@ -311,7 +311,7 @@ export default function Home() {
                     <h3 className="text-white font-semibold text-lg mb-2">Collaborative, Not Competitive</h3>
                     <p className="leading-relaxed">
                       These aren't conflicting personalities—they're complementary functions. 
-                      Raven sees the pattern, Sadie explains it, Asset executes it. 
+                      Raven sees the pattern, Thoth explains it, Asset executes it. 
                       The whole is designed to exceed what any single approach could achieve.
                     </p>
                   </div>
